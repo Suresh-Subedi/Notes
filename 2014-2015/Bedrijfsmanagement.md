@@ -8,5 +8,3 @@ Formules:
 NWK = VA - KVV = (Liquide Middelen + Voorraden + Debiteuren) - (Bank R/C in het rood + Crediteuren)
 Current Ratio = VA/KVV Norm: 1,2-2
 Quick Ratio = (VA - Vooraden)/KVV Norm:0,8-1
-
-
